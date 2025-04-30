@@ -2,36 +2,62 @@
 
 ## Presentación
 
-La fase de **investigación** del proyecto es crucial para desarrollar un sistema educativo moderno que integre de manera efectiva la **Inteligencia Artificial (IA)** y las **metodologías ágiles** en el aprendizaje basado en proyectos (ABP). Durante esta etapa, recopilamos y analizamos diferentes fuentes y recursos clave para asegurar que la implementación del **Framework PBAI** esté fundamentada en las mejores prácticas y tecnologías disponibles.
+La fase de **investigación** del proyecto es crucial para desarrollar un sistema educativo moderno que integre de manera efectiva la **Inteligencia Artificial (IA)**, las **metodologías ágiles** y el **Aprendizaje Basado en Proyectos (ABP)**. Esta investigación sustenta pedagógica y tecnológicamente el **Framework PBAI**, permitiendo su implementación con coherencia, rigor y sostenibilidad.
 
-Los siguientes recursos han sido seleccionados por su relevancia para el desarrollo de este marco, abarcando áreas como **IA en educación**, **metodologías ágiles aplicadas a entornos educativos**, y la **gestión de proyectos colaborativos**.
+Durante esta etapa, recopilamos, analizamos y desarrollamos recursos clave que permiten fundamentar y mejorar cada componente del framework. Esta línea investigativa es activa y evolutiva: se construye a medida que el proyecto avanza, en diálogo con la práctica y con las transformaciones del ecosistema educativo.
 
 ## Recursos a Investigar
 
 1. **Inteligencia Artificial en Educación**:
-   - Artículos sobre cómo la IA puede personalizar el aprendizaje y proporcionar retroalimentación en tiempo real.
-   - Casos de estudio de IA aplicada a la educación, como sistemas de tutoría inteligente (Intelligent Tutoring Systems).
-   - Investigación en plataformas basadas en IA para educación, como GPT, Codex o Copilot, y su aplicabilidad en contextos educativos.
+   - Personalización del aprendizaje mediante agentes conversacionales.
+   - Modelos de tutoría inteligente y retroalimentación automatizada.
+   - Uso de plataformas de IA generativa como GPT, Codex, Copilot, Gemini.
 
 2. **Metodologías Ágiles en la Educación**:
-   - Implementación de **Scrum** y **Kanban** en entornos educativos: beneficios y desafíos.
-   - Estudios sobre la aplicación de las metodologías ágiles para la enseñanza colaborativa y en proyectos de larga duración.
-   - Estrategias para la organización y ejecución de **sprints** en contextos educativos y su impacto en el aprendizaje.
+   - Aplicación de Scrum y Kanban como metodologías de gestión de equipos de aprendizaje.
+   - Organización de proyectos en sprints y evaluación iterativa.
+   - Integración del trabajo colaborativo con planificación adaptativa.
 
 3. **Aprendizaje Basado en Proyectos (ABP)**:
-   - Marco teórico del Aprendizaje Basado en Proyectos como metodología pedagógica.
-   - Investigación sobre cómo los proyectos reales o simulados fomentan el aprendizaje activo y práctico.
-   - Beneficios del ABP en el desarrollo de habilidades técnicas y blandas en estudiantes.
+   - Diseño de propuestas basadas en problemas reales o simulados.
+   - Construcción de conocimiento significativo a través de la acción.
+   - Articulación entre contenidos disciplinares, habilidades blandas y contextos de aplicación.
 
 4. **Tecnologías para la Colaboración y Control de Versiones**:
-   - Uso de herramientas de control de versiones como **GitHub** para proyectos educativos colaborativos.
-   - Implementación de **repositorios compartidos** y prácticas recomendadas para la gestión de código y recursos educativos.
-   - Plataformas de colaboración en línea (como **Trello**, **Jira**) y su aplicación en el seguimiento del progreso de equipos ágiles en la educación.
+   - Git, GitHub y Trello como entornos de trabajo colaborativo y trazabilidad.
+   - Repositorios compartidos para la documentación, el desarrollo y la evaluación de proyectos.
+   - Flujos de trabajo basados en ramas, issues y seguimiento ágil.
 
 5. **Evaluación Formativa y Reflexiva**:
-   - Análisis de los beneficios de la **evaluación continua** en la mejora del rendimiento académico.
-   - Estrategias para incorporar la **evaluación entre pares** y la **autoevaluación** en un entorno de aprendizaje ágil.
-   - Recursos sobre la importancia de la reflexión crítica en el aprendizaje y cómo promoverla de manera efectiva.
+   - Incorporación de la evaluación continua como eje del proceso de aprendizaje.
+   - Autoevaluación, coevaluación y retroalimentación constructiva como prácticas fundamentales.
+   - Análisis de los efectos de la reflexión crítica en la apropiación de saberes.
+
+---
+
+## Línea actual: Educación con IA y Diseño de Prompts Pedagógicos
+
+En 2024-2025, se desarrolló una línea específica de investigación centrada en el **uso pedagógico de la IA a través del diseño estructurado de prompts**. Esta línea aporta un enfoque teórico, metodológico y práctico que permite a los docentes actuar como **arquitectos de experiencias inteligentes** y mediadores críticos de las interacciones IA-estudiante.
+
+Los documentos producidos en este marco conforman una nueva subcarpeta del repositorio:  
+`B_investigacion/IA_y_Prompting_Educativo/`
+
+### Componentes de esta línea:
+
+- **Guías docentes** estructuradas por ejes:
+  - Eje 1: Fundamentos teóricos del prompting educativo.
+  - Eje 2: Enseñanza de ciencias duras mediada por IA.
+  - Eje 3: Transformación del ecosistema educativo y los roles institucionales.
+
+- **Hoja de ruta pedagógica**:  
+  Documento que sintetiza los cinco ejes de investigación e intervención: teoría del prompting, aprendizaje técnico, comunidad educativa, modelos de implementación y ecosistema de prompts.
+
+- **MetaPromptEducativo V5.3.0**:  
+  Constructor estructurado e interactivo de prompts maestros, orientado al dictado de clases universitarias en áreas técnicas. Incluye parámetros pedagógicos validados, alineación con marcos como ABP, Taxonomía de Bloom Digital, y propuestas de articulación con documentación externa.
+
+> Esta línea refuerza el propósito central del PBAI: transformar el aprendizaje técnico en una experiencia activa, personalizada y reflexiva, en la cual la IA no reemplaza al docente, sino que se convierte en un **instrumento pedagógico inteligentemente diseñado**.
+
+---
 
 ## Conclusión: Estrategias para la Sostenibilidad a Largo Plazo
 
@@ -50,6 +76,13 @@ Las siguientes estrategias se consideran clave para garantizar que el Framework 
 
 Estas conclusiones derivadas de la investigación y la experiencia en la implementación del PBAI aseguran que este framework sea adaptable y sostenible a largo plazo, proporcionando a estudiantes y docentes un entorno productivo, equilibrado y enfocado en la mejora constante.
 
----
+- **EducaPrompt – Agente GPT Institucional**:  
+  Interfaz conversacional especializada que aplica el MetaPromptEducativo V5.3.0 para construir Prompts Maestro Docente validados. Diseñado para docentes, tecnólogos y diseñadores instruccionales, permite generar prompts autocontenidos, éticos y técnicamente rigurosos, listos para ser ejecutados en plataformas como ChatGPT, Gemini o Copilot.
 
+  Acceso directo: [https://chatgpt.com/g/g-67d7254e3de481919e3d7bf1360d549f-educaprompt](https://chatgpt.com/g/g-67d7254e3de481919e3d7bf1360d549f-educaprompt)
+
+> EducaPrompt no es un chatbot genérico. Es una herramienta pedagógica orientada a transformar temarios técnicos en secuencias instruccionales IA-responsivas, alineadas con el enfoque PBAI.
+
+---
 Este archivo continuará siendo actualizado conforme se obtengan nuevos recursos y conclusiones a lo largo del desarrollo del proyecto.
+
